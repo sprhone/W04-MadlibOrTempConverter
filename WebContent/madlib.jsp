@@ -9,7 +9,7 @@
 				Date:	   18Feb21-->
 	</head>
 	<body>
-		<h1> Temperature converter</h1>
+		<h1>Madlib maker</h1>
 		<form action="madlibMakerServlet" method="post">
   		<label for="name1">Enter a name:</label><br>
   		<input type="text" name="name1" size="20"><br> 		
